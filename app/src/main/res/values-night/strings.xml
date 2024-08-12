@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Welcome</string>
+    <string name="signup">Signup</string>
+    <string name="create">Don\'t have an account?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="Reset">Reset Password</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Your Password</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="image">Image</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="enter_username">Enter Your Userame</string>
+    <string name="enter_phone">Enter Your Phone Number</string>
+    <string name="enter_address">Enter Your Address</string>
+    <string name="enter_city">Enter Your City</string>
+    <string name="enter_country">Enter Your Country</string>
+    <string name="enter_age">Enter Your Age</string>
+    <string name="reenter_password">Re-Enter Your Password</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="admin">Admin</string>
+    <string name="role">Role</string>
+    <string name="users">User</string>
+    <string name="already_account">Already Have an Account?</string>
+    <string name="submit">Submit</string>
+    <string name="send_email">A mail will be sent to your given email to reset your Password. Thankyou.</string>
+    <string name="courses">Courses</string>
+    <string name="course_detail">Course Detail</string>
+    <string name="title">Title</string>
+    <string name="speak">Speak</string>
+    <string name="content">Content</string>
+    <string name="stop">Stop</string>
+    <string name="read">Read</string>
+    <string name="add_car">Add Course</string>
+    <string name="enter_content">Enter Course Content</string>
+    <string name="enter_title">Enter Course Title</string>
+    <string name="enter_message">Enter Your Message</string>
+    <string name="contact">Feedback</string>
+    <string name="user_name">Username</string>
+    <string name="quiz">Quiz</string>
+    <string name="take_quiz">Click Quiz Button to take quiz after passing quiz you can generate your Certificate.</string>
+    <string name="add_quiz">Add Quiz</string>
+</resources>
